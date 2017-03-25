@@ -1,11 +1,12 @@
 {
   "name": "arrayutils",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Some useful optimized array functions",
   "main": "lib/arrays.js",
-  "typings": "build/index",
+  "typings": "lib/arrays",
   "files": [
-    "lib/"
+    "lib/",
+    "spec"
   ],
   "scripts": {
     "test": "jasmine"
