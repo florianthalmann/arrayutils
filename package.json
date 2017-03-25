@@ -1,0 +1,34 @@
+{
+  "name": "arrayutils",
+  "version": "0.0.2",
+  "description": "Some useful optimized array functions",
+  "main": "lib/arrays.js",
+  "typings": "build/index",
+  "files": [
+    "lib/"
+  ],
+  "scripts": {
+    "test": "jasmine"
+  },
+  "dependencies": {
+    "lodash": "^4.17.4"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.14.51",
+    "typescript": "^2.2.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/florianthalmann/arrayutils.git"
+  },
+  "keywords": [
+    "array",
+    "utils"
+  ],
+  "author": "florianthalmann",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/florianthalmann/arrayutils/issues"
+  },
+  "homepage": "https://github.com/florianthalmann/arrayutils#readme"
+}
